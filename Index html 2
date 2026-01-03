@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfolio - Noor Samy</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 20px; }
+        .project { border: 1px solid #ccc; padding: 15px; margin: 10px; }
+    </style>
+</head>
+<body>
+    <h1>نور سامي</h1>
+    <p>مطور ويب مبتدئ | طالب برمجيات</p>
+    
+    <div class="project">
+        <h3>GR Ads Calculator</h3>
+        <p>آلة حاسبة لحساب أرباح إعلانات جوجل</p>
+        <a href="https://noorsamy123.github.io/gr-ads-calculator/">عرض المشروع</a>
+    </div>
+</body>
+</html>
